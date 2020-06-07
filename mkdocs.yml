@@ -1,0 +1,19 @@
+site_name: eduardomarossi.github.io
+site_description: Site pessoal - Eduardo Marossi
+site_author: Eduardo Marossi
+remote_branch: master
+copyright: © 2020 Eduardo Marossi. Todos os direitos reservados. 
+theme:
+  name: flatly
+  include_sidebar: false
+nav:
+  - Sobre mim: sobre_mim.md
+  - Portfólio: portfolio.md
+  - CV: cv.md
+  - Contribuições: contribuicoes.md
+  - Contato: contato.md
+extra_css:
+  - stylesheets/extra.css
+plugins: []
+markdown_extensions:
+  - attr_list
