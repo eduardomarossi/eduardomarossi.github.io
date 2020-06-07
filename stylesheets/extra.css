@@ -1,0 +1,11 @@
+.md-sidebar--secondary, #toc-collapse {
+  display: none;
+}
+
+
+.breadcrumb, .last-updated-holder, .contributors-holder, .col-md-3 {
+  display:none;
+}
+#toc-collapse {
+  display:none;
+  }
