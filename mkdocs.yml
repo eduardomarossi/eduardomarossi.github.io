@@ -3,13 +3,14 @@ site_description: Site pessoal - Eduardo Marossi
 site_author: Eduardo Marossi
 remote_branch: master
 copyright: © 2020 Eduardo Marossi. Todos os direitos reservados. 
+lang: pt
 theme:
   name: flatly
   include_sidebar: false
 nav:
   - Sobre mim: sobre_mim.md
   - Portfólio: portfolio.md
-  - CV: cv.md
+  - CV: cv.pdf
   - Contribuições: contribuicoes.md
   - Contato: contato.md
 extra_css:
