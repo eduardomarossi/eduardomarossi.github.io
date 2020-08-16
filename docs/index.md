@@ -3,7 +3,7 @@
 
 ##### Engenheiro Eletrônico, professor, empresário, 29 anos. 
 
-Prazer em conhece-lô! Sou professor auxiliar de Engenharia de Computação no [Insper](https://insper.edu.br) desde 2017, trabalho também na administração de uma rede de lojas de varejo, na parte administrativa e também auxiliando em sistemas administrativos, automação e consultoria. Formado em Engenharia Eletrônica, pós-graduado em Economia e Gerenciamento pela EESP-FGV e atualmente cursando Mestrado em Engenharia de Sistemas pela Poli-USP.
+Prazer em conhece-lô! Sou professor auxiliar de Engenharia de Computação no [Insper](https://insper.edu.br) desde 2017, trabalho também na administração de uma rede de lojas no setop óptico, na parte administrativa e também auxiliando em sistemas administrativos, automação e consultoria (por minha empresa [Miniti](https://miniti.com.br)). Formado em Engenharia Eletrônica, pós-graduado em Economia e Gerenciamento pela EESP-FGV e atualmente cursando Mestrado em Engenharia de Sistemas pela Poli-USP.
 
 Conhecimentos e tópicos de interesse: 
 
@@ -13,7 +13,9 @@ Conhecimentos e tópicos de interesse:
 
 - Frameworks: Django, Flask, Qt5, Javalin, Pygame.
 
-- Economia: Teoria dos Jogos, Microeconomia, Economia Comportamental, Econometria
+- Economia: Teoria dos Jogos, Microeconomia, Economia Comportamental, Econometria.
+
+- Assuntos Contábeis
 
 ##### [Cópia do meu Curriculum Vitae (CV)](cv.pdf) com mais detalhes!
 
